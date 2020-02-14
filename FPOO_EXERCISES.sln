@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FPOO_EXERCISES", "FPOO_EXERCISES\FPOO_EXERCISES.csproj", "{6F12253C-2E5A-4815-BEAC-E2270314653E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F12253C-2E5A-4815-BEAC-E2270314653E}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{6F12253C-2E5A-4815-BEAC-E2270314653E}.Debug|anycpu.Build.0 = Debug|anycpu
+		{6F12253C-2E5A-4815-BEAC-E2270314653E}.Release|anycpu.ActiveCfg = Release|anycpu
+		{6F12253C-2E5A-4815-BEAC-E2270314653E}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
